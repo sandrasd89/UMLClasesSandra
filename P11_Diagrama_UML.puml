@@ -1,6 +1,11 @@
 @startuml
 
 class AAUOC {
+    newLocation(l:Location): void
+    newEvent(e:Event): void
+    newPerson(p:Person): void
+    informEvent(e:Event): void
+    register(m:Member, e:Event): void
 
 }
 class Location {
