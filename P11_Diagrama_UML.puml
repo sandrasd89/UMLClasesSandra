@@ -9,6 +9,8 @@ class AAUOC {
 
 }
 class Location {
+    description: String
+    address: String
 
 }
 class Event{
