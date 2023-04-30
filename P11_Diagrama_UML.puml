@@ -36,6 +36,7 @@ Person <|-- Member
 Member <|-- BroadMember
 Event -- Member
 Person -- Conference
+BroadMeeting -- BroadMember
 
 
 
