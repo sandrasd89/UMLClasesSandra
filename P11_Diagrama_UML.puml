@@ -1,5 +1,11 @@
 @startuml
 
+class AAUOC {
+
+}
+class Location {
+
+}
 class Event{
 
 }
